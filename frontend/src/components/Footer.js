@@ -176,7 +176,7 @@ const Footer = () => {
           style={{ backgroundColor: "rgba(0, 0, 0, 0.2)" }}
           style={{ color: "gray" }}
         >
-          © {today} All Aight Reserved :<span>Code94Labs</span>
+          © {today} All Rights Reserved :<span>Code94Labs</span>
         </div>
       </footer>
     </>
